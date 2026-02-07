@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock
+1,Laptop,Electronics,999.99,50
+2,Smartphone,Electronics,699.99,200
+3,Headphones,Accessories,49.99,500
+4,Desk Chair,Furniture,150.0,100
+5,Coffee Mug,Kitchen,10.99,1000
+6,Bluetooth Speaker,Electronics,79.99,150
+7,Keyboard,Accessories,39.99,300
+8,Gaming Console,Electronics,499.99,75
+9,Bookshelf,Furniture,120.0,80
+10,Mouse,Accessories,25.99,400
+11,Tablet,Electronics,329.99,100
+12,Monitor,Electronics,199.99,120
+13,Desk Lamp,Furniture,45.0,200
+14,Thermos,Kitchen,24.99,500
+15,Dining Set,Furniture,499.99,30
